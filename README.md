@@ -97,6 +97,15 @@ An intelligent stock analysis application exploring machine learning and real-ti
 
 </div>
 
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/vedantkumbhar/vedantkumbhar/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ### ⚡ Developer Activity
 
 - 💻 Building projects and improving coding skills.
