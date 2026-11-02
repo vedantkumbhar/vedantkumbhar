@@ -98,6 +98,12 @@ An intelligent stock analysis application exploring machine learning and real-ti
 </div>
 
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=vedantkumbhar&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vedantkumbhar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -105,6 +111,61 @@ An intelligent stock analysis application exploring machine learning and real-ti
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/vedantkumbhar/vedantkumbhar/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### ⚙️ Frameworks & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,angular,tailwind" />
+</p>
+
+### 🚀 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,firebase" />
+</p>
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 1. Landslide Prediction System
+**AI/ML | GIS | Remote Sensing | Satellite Data**
+
+An AI-powered landslide prediction system designed to assess landslide risks across the Himalayas, Northeast India, and Western Ghats using machine learning, terrain features and satellite rainfall monitoring.
+
+- Dynamic rainfall-responsive GIS risk mapping.
+- Terrain analysis using DEM data.
+- NASA GPM IMERG and ISRO satellite integration.
+
+🔗 **[View Repository](https://github.com/vedantkumbhar/Landslide-Prediction)**
+
+---
+
+### 🤖 2. NEXUS – Personal AI Voice Assistant
+**Python | Speech Recognition | Text-to-Speech | SQLite**
+
+A personal desktop voice assistant designed to provide intelligent voice interaction, memory management, weather information and desktop automation.
+
+- Voice recognition and speech responses.
+- Persistent memory using SQLite.
+- Weather information and website automation.
+
+🚧 Repository coming soon.
+
 
 ### ⚡ Developer Activity
 
@@ -158,3 +219,22 @@ An intelligent stock analysis application exploring machine learning and real-ti
 **Thanks for visiting my profile! Let's connect and build something extraordinary. 🚀**
 
 </div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:vedantkumbhar1210@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-kumbhar-b45669327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Let's connect and build something amazing.
+</p>
