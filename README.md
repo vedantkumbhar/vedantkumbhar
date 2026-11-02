@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Vedant Kumbhar - AI/ML Developer"/>
+</div>
+
+<br/>
+ 
  <div align="center">
 
 # ⚡ VEDANT KUMBHAR
