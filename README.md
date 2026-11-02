@@ -114,6 +114,30 @@ An intelligent stock analysis application exploring machine learning and real-ti
 
 ---
 
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vedant-kumbhar-b45669327/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/vedantkumbhar">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**💬 Open to learning, collaboration and exciting opportunities!**
+
+</div>
+
 <div align="center">
 
 ### ⚡ THINK. CREATE. INNOVATE.
