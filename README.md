@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="banner.png" width="100%" alt="Vedant Kumbhar - AI/ML Developer"/>
+ <div align="center">
+  <img src="Futuristic%20Tech%20Traveller%20at%20Sunset.png" width="100%" alt="Vedant Kumbhar - AI/ML Developer"/>
 </div>
 
 <br/>
