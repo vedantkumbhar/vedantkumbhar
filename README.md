@@ -1,16 +1,118 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**vedantkumbhar/vedantkumbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ VEDANT KUMBHAR
 
-Here are some ideas to get you started:
+### AI/ML ENGINEER • PYTHON DEVELOPER • TECH ENTHUSIAST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+Artificial+Intelligence+%F0%9F%A7%A0;Turning+Ideas+Into+Reality+%E2%9A%A1;Dream.+Code.+Innovate.+Repeat.+%F0%9F%9A%80" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-vedantkumbhar-181717?style=for-the-badge&logo=github)](https://github.com/vedantkumbhar)
+![India](https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello World! I'm Vedant, a B.Tech Artificial Intelligence & Machine Learning student who loves building technology that solves real-world problems.
+
+- 🤖 Passionate about Artificial Intelligence and Machine Learning.
+- 🧠 Exploring Deep Learning, Data Science and MLOps.
+- 🌍 Interested in Satellite Technology, GIS and Remote Sensing.
+- ⚡ Building AI-powered applications and intelligent systems.
+- 🚀 Always learning, experimenting and creating.
+
+```python
+class Vedant:
+    name = "Vedant Mahesh Kumbhar"
+    role = "AI/ML Developer"
+    location = "India 🇮🇳"
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Geospatial AI",
+        "MLOps",
+        "Software Development"
+    ]
+
+    motto = "Dream Big. Build Bigger. 🚀"
+```
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML / Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Development & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🌍 Landslide Prediction System
+AI-powered geospatial landslide prediction using machine learning, satellite rainfall data and dynamic GIS risk mapping.
+
+**Focus:** Machine Learning • Remote Sensing • GIS • NASA GPM • ISRO
+
+### 🤖 NEXUS – Personal AI Voice Assistant
+A Python-powered desktop voice assistant with speech recognition, persistent memory, weather information and automation.
+
+**Focus:** Python • AI • Voice Recognition • SQLite • Automation
+
+### 📈 Real-Time Stock Prediction
+An intelligent stock analysis application exploring machine learning and real-time market data integration.
+
+**Focus:** Python • Machine Learning • Financial Data • APIs
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantkumbhar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkumbhar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantkumbhar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🌌 Beyond Coding
+
+- 🎵 Music enthusiast
+- ✈️ Travel explorer
+- 📸 Photography lover
+- 🌌 Space and astronomy admirer
+- 💡 Always curious about what's next
+
+---
+
+<div align="center">
+
+### ⚡ THINK. CREATE. INNOVATE.
+
+*"The future belongs to those who build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+
+**Thanks for visiting my profile! Let's connect and build something extraordinary. 🚀**
+
+</div>
