@@ -87,13 +87,16 @@ An intelligent stock analysis application exploring machine learning and real-ti
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantkumbhar&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkumbhar&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantkumbhar&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantkumbhar&theme=tokyonight" />
 
 </div>
+
+### ⚡ Developer Activity
+
+- 💻 Building projects and improving coding skills.
+- 🚀 Exploring AI/ML and intelligent applications.
+- 🌱 Continuously learning new technologies.
+- 🎯 Focused on consistent development and innovation.
 
 ## 🌌 Beyond Coding
 
